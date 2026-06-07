@@ -8,5 +8,6 @@ public class HelloWorld {
         System.out.println("Hello Git4!");
         System.out.println("Main test");
         System.out.println("Hot_fix test!");
+        System.out.println("push test");
     }
 }
