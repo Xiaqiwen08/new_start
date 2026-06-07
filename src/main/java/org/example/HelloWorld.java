@@ -9,5 +9,6 @@ public class HelloWorld {
         System.out.println("Main test");
         System.out.println("Hot_fix test!");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
